@@ -5,4 +5,6 @@
     <string name="enviar">Enviar</string>
     <string name="escribe_un_mensaje">Escribe un mensaje</string>
     <string name="eliminar_mensajes">Eliminar mensajes</string>
+    <string name="escribe_un_mensaje1">Escribe un mensaje</string>
+    <string name="enviar1">Enviar</string>
 </resources>
