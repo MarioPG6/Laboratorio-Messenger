@@ -3,4 +3,6 @@
     <string name="hint">Enter a message</string>
     <string name="app_name" />
     <string name="enviar">Enviar</string>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+    <string name="eliminar_mensajes">Eliminar mensajes</string>
 </resources>
